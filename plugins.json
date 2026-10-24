@@ -1,0 +1,62 @@
+[
+    {
+        "fileHash": "sha256-445348a553c49b2f6ea679eb94a72341f904067e968948fb069f1b2373d269f4",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/karthibeit/CSR",
+        "fileSize": 57914,
+        "status": 3,
+        "language": "en",
+        "authors": [
+            "Karthi"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "version": 5,
+        "internalName": "4KHUB",
+        "description": "4KHDHub \u2014 movies and web series in 4K/HD (HubCloud/HubDrive links): Hindi, English, Korean, OTT originals, anime and more",
+        "url": "https://raw.githubusercontent.com/karthibeit/CSR/builds/4KHUB.cs3",
+        "name": "4KHUB"
+    },
+    {
+        "fileHash": "sha256-ff043edf2b86df5bdc3d35169b51d23b15a067c1cc89f6ed03a226d813dcbdbf",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/karthibeit/CSR",
+        "fileSize": 40287,
+        "status": 3,
+        "language": "ta",
+        "authors": [
+            "Karthi"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "version": 8,
+        "internalName": "OTM",
+        "description": "1TamilMV forum \u2014 Tamil, Telugu, Malayalam, Kannada and Hindi releases (magnet/torrent + direct/file-host links)",
+        "url": "https://raw.githubusercontent.com/karthibeit/CSR/builds/OTM.cs3",
+        "name": "OTM"
+    },
+    {
+        "fileHash": "sha256-9155a4d3c2e88dfc0e2fc788ae3e0b6d3ecdfa03be10aa9dd4ab5fdf5ab4318b",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/karthibeit/CSR",
+        "fileSize": 44055,
+        "status": 3,
+        "language": "ta",
+        "authors": [
+            "Karthi"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "version": 5,
+        "internalName": "TML",
+        "description": "1TamilMV Tamil sub-forums as main sections \u2014 PreDVD, WEB-HD, HD-Rips, HDTV, Web Series and more (magnet/torrent + direct/file-host links)",
+        "url": "https://raw.githubusercontent.com/karthibeit/CSR/builds/TML.cs3",
+        "name": "TML"
+    }
+]
